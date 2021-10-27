@@ -1,0 +1,11 @@
+/*HOJA DE ESTILO DE LA CANCIÓN DEL PIRATA DE ESPRONCEDA*/
+
+        body{background-image: url(../imagenes/background.jfif);
+        margin: 0;
+        padding: 0;
+        padding-top: 5%;}
+        #container{background-color: #fff;
+        width: 40%;
+        height: 70vh;
+        margin: auto;
+        text-align: center;}

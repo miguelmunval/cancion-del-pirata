@@ -1,0 +1,18 @@
+/********Hoja de estilo del ejercicio pirata2 de canción del pirata********/
+@font-face {
+    font-family: 'caligrafia';
+    src: url("../fonts/IndieFlower-Regular.ttf");
+}
+body{background-color: black;
+    font-family: caligrafia;}
+
+#container {background-image: url("../imagenes/fondopirata.jpg");
+            background-size: cover;/*estira en vertical y horizontal para que solo quepa 1 vez*/
+            background-position: 66%;
+            width: 90%;
+            padding: 30px 0;
+            margin: auto;}
+#poema {background-color: rgba(255, 253, 154, 0.678);
+        width: 300px;
+        text-align: center;
+        }
